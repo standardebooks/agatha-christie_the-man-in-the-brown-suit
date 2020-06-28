@@ -64,7 +64,7 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79038407</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Georges-Victor Hugo</dc:contributor>
-		<meta property="file-as" refines="#artist">Hugo, Georges</meta>
+		<meta property="file-as" refines="#artist">Hugo, Georges-Victor</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nb2016011039</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber">An Anonymous Volunteer</dc:contributor>

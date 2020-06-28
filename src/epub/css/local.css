@@ -6,4 +6,11 @@ a[epub|type~="bridgehead"]{
 	margin-top: 1em;
 }
 
+div[epub|type~="se:diary.dateline"], div[epub|type~="z3998:valediction"]{
+	text-align: right;
+	margin-right: 1em;
+}
 
+#cursiveclue {
+	text-align: center;
+}
