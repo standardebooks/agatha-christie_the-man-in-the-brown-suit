@@ -47,7 +47,7 @@
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">A murder-mystery adventure in which Anne Beddingfeld travels to South Africa after finding a cryptic note beside the body of a man whose death she witnessed in the London underground.</dc:description>
+		<dc:description id="description">A murder-mystery adventure in which Anne Beddingfeld travels to South Africa after finding a cryptic note beside the body of a man whose death she witnessed in the London Underground.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">LONG_DESCRIPTION</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/files/61168/61168-h/61168-h.htm</dc:source>
