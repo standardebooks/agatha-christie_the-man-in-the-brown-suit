@@ -49,7 +49,7 @@
 		<meta property="se:subject">Mystery</meta>
 		<dc:description id="description">A murder-mystery adventure in which Anne Beddingfeld travels to South Africa after finding a cryptic note beside the body of a man whose death she witnessed in the London Underground.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">LONG_DESCRIPTION</meta>
-		<dc:language>en-US</dc:language>
+		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/61168</dc:source>
 		<dc:source>https://archive.org/details/BrownSuit00AGCH</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
