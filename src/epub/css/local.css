@@ -31,30 +31,10 @@ section[epub|type~="dedication"] > *{
 }
 /* End all dedications */
 
-figure img{
-	display: block;
-	margin: auto;
-	max-width: 100%;
-}
-
-figure + p{
-	text-indent: 0;
-}
-
-figcaption{
-	font-size: .75em;
-	font-style: italic;
-	margin: 1em;
-}
-
 [epub|type~="bridgehead"]{
 	display: inline-block;
 	font-style: italic;
 	max-width: 60%;
 	text-align: justify;
 	text-indent: 0;
-}
-
-[epub|type~="bridgehead"] i{
-	font-style: normal;
 }
