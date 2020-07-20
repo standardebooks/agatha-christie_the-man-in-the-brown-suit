@@ -1,10 +1,25 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-div[epub|type~="se:diary.dateline"], div[epub|type~="z3998:valediction"]{
+div[epub|type~="se:diary.dateline"],
+div[epub|type~="z3998:valediction"]{
 	text-align: right;
 	margin-right: 1em;
 }
+
+/* To adjust appearance of short headers within diary entries */
+header{
+	text-align: left;
+	margin-top: 1em;
+	text-indent: 0;
+	font-style: italic;
+}
+
+header + p{
+	margin-top: 0;
+	text-indent: 1em;
+}
+/* End of header adjustments */
 
 /* All dedications */
 section[epub|type~="dedication"] > *{
