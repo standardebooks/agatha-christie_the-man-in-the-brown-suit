@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-GB">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/agatha-christie/the-man-in-the-brown-suit</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-07-21T18:13:34Z</dc:date>
+		<meta property="dcterms:modified">2020-07-21T18:13:34Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -50,15 +50,15 @@
 		<dc:description id="description">A murder-mystery adventure in which Anne Beddingfeld travels to South Africa after finding a cryptic note beside the body of a man whose death she witnessed in the London Underground.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;After her father’s death, young Anne Beddingfeld moves to London with her meagre inheritance, hopeful and ready to meet adventure. She witnesses a fatal accident at a Tube station and picks up a cryptic note dropped by the anonymous doctor who appeared on the scene. When Anne learns of a murder at the estate that the dead man was on his way to visit, it confirms her suspicion that the man in the brown suit who lost the note was not a real doctor.&lt;/p&gt;
-			&lt;p&gt;With her clue in hand she gains a commission from the newspaper leading the search for the “man in the brown suit,” and her investigation leads her to take passage on a South Africa–bound ocean liner. On board, she meets a famous socialite, a fake missionary, a possible secret service agent, and the &lt;abbr&gt;M.P.&lt;/abbr&gt; at whose estate the second murder occurred. She learns about a secretive criminal master­mind known only as The Colonel and of stolen diamonds connected to it all.&lt;/p&gt;
-			&lt;p&gt;During the voyage, she evades an attempt on her life, and in South Africa she escapes from a kidnapping and barely survives another attack on her at Victoria Falls. She falls in love, finds the diamonds, and discovers the truth about the two deaths in London that started it all. Finally, she confronts the mysterious criminal mastermind, The Colonel.&lt;/p&gt;
-			&lt;p&gt;Published in 1924 by The Bodley Head, &lt;i&gt;The Man in the Brown Suit&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/agatha-christie"&gt;Agatha Christie’s&lt;/a&gt; fourth novel. Unlike the classic murder mysteries that made her famous, &lt;i&gt;The Man in the Brown Suit&lt;/i&gt;, like her second novel &lt;i&gt;The Secret Adversary&lt;/i&gt;, is an international crime thriller.&lt;/p&gt;
+			&lt;p&gt;With her clue in hand she gains a commission from the newspaper leading the search for the “man in the brown suit,” and her investigation leads her to take passage on a South Africa–bound ocean liner. On board, she meets a famous socialite, a fake missionary, a possible secret service agent, and the &lt;abbr&gt;M.P.&lt;/abbr&gt; at whose estate the second murder occurred. She learns about a secretive criminal master­mind known only as the Colonel and of stolen diamonds connected to it all.&lt;/p&gt;
+			&lt;p&gt;During the voyage, she evades an attempt on her life, and in South Africa she escapes from a kidnapping and barely survives another attack on her at Victoria Falls. She falls in love, finds the diamonds, and discovers the truth about the two deaths in London that started it all. Finally, she confronts the mysterious criminal mastermind, the Colonel.&lt;/p&gt;
+			&lt;p&gt;Published in 1924 by the Bodley Head, &lt;i&gt;The Man in the Brown Suit&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/agatha-christie"&gt;Agatha Christie’s&lt;/a&gt; fourth novel. Unlike the classic murder mysteries that made her famous, &lt;i&gt;The Man in the Brown Suit&lt;/i&gt;, like her second novel &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/agatha-christie/the-secret-adversary"&gt;The Secret Adversary&lt;/a&gt;&lt;/i&gt;, is an international crime thriller.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/61168</dc:source>
 		<dc:source>https://archive.org/details/BrownSuit00AGCH</dc:source>
-		<meta property="se:word-count">76000</meta>
-		<meta property="se:reading-ease.flesch">72.5</meta>
+		<meta property="se:word-count">77281</meta>
+		<meta property="se:reading-ease.flesch">76.82</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Man_in_the_Brown_Suit</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/agatha-christie_the-man-in-the-brown-suit</meta>
 		<dc:creator id="author">Agatha Christie</dc:creator>
@@ -67,6 +67,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Agatha_Christie</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79038407</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">Georges-Victor Hugo</dc:contributor>
 		<meta property="file-as" refines="#artist">Hugo, Georges-Victor</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nb2016011039</meta>
@@ -87,6 +88,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
