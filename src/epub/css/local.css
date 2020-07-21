@@ -46,6 +46,11 @@ section[epub|type~="dedication"] > *{
 }
 /* End all dedications */
 
+section[epub|type~="dedication"] > p{
+	text-align: center;
+	text-indent: 0;
+}
+
 [epub|type~="bridgehead"]{
 	display: inline-block;
 	font-style: italic;
