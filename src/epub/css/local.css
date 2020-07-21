@@ -1,25 +1,14 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-div[epub|type~="se:diary.dateline"],
-div[epub|type~="z3998:valediction"]{
+header + [epub|type~="se:diary.dateline"],
+[epub|type~="z3998:valediction"]{
 	text-align: right;
-	margin-right: 1em;
 }
 
-/* To adjust appearance of short headers within diary entries */
-header{
-	text-align: left;
-	margin-top: 1em;
-	text-indent: 0;
+[epub|type~="se:diary.dateline"]{
 	font-style: italic;
 }
-
-header + p{
-	margin-top: 0;
-	text-indent: 1em;
-}
-/* End of header adjustments */
 
 /* All dedications */
 section[epub|type~="dedication"] > *{
@@ -56,5 +45,30 @@ section[epub|type~="dedication"] > p{
 	font-style: italic;
 	max-width: 60%;
 	text-align: justify;
+	text-indent: 0;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+
+figure + p{
+	text-indent: 0;
+}
+
+figure{
+	margin: 1em auto;
+	text-align: center;
+}
+
+[epub|type~="z3998:salutation"],
+.signature{
+	font-variant: small-caps;
+}
+
+header + [epub|type~="se:diary.dateline"] + p,
+[epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
