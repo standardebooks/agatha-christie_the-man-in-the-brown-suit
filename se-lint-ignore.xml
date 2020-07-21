@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="dedication.xhtml">
+		<ignore>
+			<code>t-011</code>
+			<reason>Punctuation does not appear in print and the dedication's unique styling should be preserved.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
