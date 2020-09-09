@@ -72,3 +72,7 @@ header + [epub|type~="se:diary.dateline"] + p,
 [epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
+
+#chapter-28 hr + p{
+	font-style: italic;
+}
