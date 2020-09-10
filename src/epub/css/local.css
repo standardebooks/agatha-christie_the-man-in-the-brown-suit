@@ -64,7 +64,7 @@ figure{
 }
 
 [epub|type~="z3998:salutation"],
-.signature{
+[epub:type~="z3998:signature"]{
 	font-variant: small-caps;
 }
 
