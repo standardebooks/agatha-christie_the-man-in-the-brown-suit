@@ -11,8 +11,11 @@ header + [epub|type~="se:diary.dateline"],
 }
 
 /* All dedications */
+section[epub|type~="dedication"]{
+	text-align: center;
+}
+
 section[epub|type~="dedication"] > *{
-	display: inline-block;
 	margin: auto;
 	margin-top: 3em;
 	max-width: 80%;
@@ -36,7 +39,6 @@ section[epub|type~="dedication"] > *{
 /* End all dedications */
 
 section[epub|type~="dedication"] > p{
-	text-align: center;
 	text-indent: 0;
 }
 
