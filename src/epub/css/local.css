@@ -1,13 +1,23 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-header + [epub|type~="se:diary.dateline"],
-[epub|type~="z3998:valediction"]{
+header + [epub|type~="se:diary.dateline"]{
 	text-align: right;
 }
 
 [epub|type~="se:diary.dateline"]{
 	font-style: italic;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:postscript"]{
+	margin-top: 1em;
+	text-indent: 0;
+	text-align: initial;
 }
 
 /* All dedications */
