@@ -60,15 +60,16 @@ section[epub|type~="dedication"] > p{
 	text-indent: 0;
 }
 
+figure{
+	break-inside: avoid;
+	margin: 1em auto;
+	text-align: center;
+}
+
 figure img{
 	display: block;
 	margin: auto;
 	max-width: 100%;
-}
-
-figure{
-	margin: 1em auto;
-	text-align: center;
 }
 
 [epub|type~="z3998:salutation"],
