@@ -48,7 +48,7 @@
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">A murder-mystery adventure in which Anne Beddingfeld travels to South Africa after finding a cryptic note beside the body of a man whose death she witnessed in the London Underground.</dc:description>
+		<dc:description id="description">Anne Beddingfeld travels to South Africa after finding a cryptic note beside the body of a man whose death she witnessed in the London Underground.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;After her father’s death, young Anne Beddingfeld moves to London with her meagre inheritance, hopeful and ready to meet adventure. She witnesses a fatal accident at a Tube station and picks up a cryptic note dropped by the anonymous doctor who appeared on the scene. When Anne learns of a murder at the estate that the dead man was on his way to visit, it confirms her suspicion that the man in the brown suit who lost the note was not a real doctor.&lt;/p&gt;
 			&lt;p&gt;With her clue in hand she gains a commission from the newspaper leading the search for the “man in the brown suit,” and her investigation leads her to take passage on a South Africa–bound ocean liner. On board, she meets a famous socialite, a fake missionary, a possible secret service agent, and the &lt;abbr&gt;M.P.&lt;/abbr&gt; at whose estate the second murder occurred. She learns about a secretive criminal master­mind known only as the Colonel and of stolen diamonds connected to it all.&lt;/p&gt;
