@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="dedication.xhtml">
 		<ignore code="t-011">
+			<line>11</line>
 			<reason>Punctuation does not appear in print and the dedication's unique styling should be preserved.</reason>
 		</ignore>
 	</file>
